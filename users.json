@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "username": "demo1",
+      "password": "demo1_password",
+      "home_dir": "/srv/sftpgo/data/demo1",
+      "status": 1,
+      "permissions": {
+        "/": ["*"]
+      }
+    },
+    {
+      "username": "demo2",
+      "password": "demo2_password",
+      "home_dir": "/srv/sftpgo/data/demo2",
+      "status": 1,
+      "permissions": {
+        "/": ["*"]
+      }
+    }
+  ]
+}
